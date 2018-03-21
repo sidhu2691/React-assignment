@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* .Conatct-cont{padding: 10px;}*/
+.header-cont{padding: 5px;} 
+#root{padding: 10px;}
+.member-display{width: 32%; float: left;}
+.member-photo{border-radius: 50%;}
+.member-section-cont{display: flex; justify-content: center;}
+.member-pic{height: 150px; widows: 150px; }
